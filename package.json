@@ -1,0 +1,17 @@
+{
+  "name": "ntt-tr-mii-extension-pack",
+  "displayName": "ntt-tr-mii-extension-pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "NTTDataTurkiyeMII.miisync",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}
