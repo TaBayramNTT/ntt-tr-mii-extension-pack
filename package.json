@@ -1,7 +1,18 @@
 {
   "name": "ntt-tr-mii-extension-pack",
   "displayName": "ntt-tr-mii-extension-pack",
-  "description": "",
+  "description": "Extension pack for ntt data turkey mii",
+  "publisher": "NTTDataTurkiyeMII",
+  "icon": "resources/icon.png",
+  "author": {
+    "name": "TaBayramNTT",
+    "url": "https://github.com/TaBayramNTT"
+  },
+  "repository": {
+    "url": "https://github.com/TaBayramNTT/ntt-tr-mii-extension-pack",
+    "type": "github"
+  },
+  "homepage": "https://github.com/TaBayramNTT/ntt-tr-mii-extension-pack",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
